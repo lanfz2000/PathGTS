@@ -1,0 +1,14 @@
+torch==2.8.0
+torchvision==0.23.0
+lightning==2.5.4
+timm==1.0.19
+transformers==4.55.4
+diffusers==0.30.2
+accelerate==1.10.1
+albumentations==2.0.8
+numpy
+pandas
+pillow
+safetensors
+tensorboard
+tqdm
